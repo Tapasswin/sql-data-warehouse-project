@@ -29,8 +29,7 @@ This project involves:
 - Data Architect
 - Data Engineering  
 - ETL Pipeline Developer  
-- Data Modeling  
-- Data Analytics  
+- Data Modeling
 
 ---
 
@@ -61,8 +60,6 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
-
-### BI: Analytics & Reporting (Data Analysis)
 
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
